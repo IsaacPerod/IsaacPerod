@@ -12,20 +12,27 @@ Contribuo para projetos open-source e participo de hackathons para aprender e co
 🔧 Tecnologias e Ferramentas
 
 Linguagens: Python, Java, Flutter/Dart.
+
 Ferramentas: Git, VS Code, Raspberry Pi, Arduino
+
 Frameworks: Flask, Express
+
 Outros: IoT, MQTT, Banco de Dados (SQL/NoSQL), Linux
 
 🎓 Sobre mim
 
 📍 Alegrete, RS
+
 🎯 Apaixonado por resolver problemas reais com tecnologia.
+
 🌱 Sempre aprendendo algo novo, seja uma linguagem, um framework ou uma abordagem de design.
+
 ⚡ Curto eletrônica, automação e projetos que unem software e hardware.
 
 📫 Conecte-se comigo!
 
 LinkedIn: https://www.linkedin.com/in/isaac-pedroso-1b2748244/
+
 E-mail: isaac.pedroso@gmail.com
 
 💡 Fun fact: Sou fascinado por como a tecnologia pode transformar o campo, trazendo mais eficiência e sustentabilidade para o agronegócio!
